@@ -23,6 +23,14 @@ html {
     width: 2rem;
     height: 2rem;
 }
+.icon-flower {
+
+    stroke: wheat !important;
+    
+    fill: none;
+    width: 5rem;
+    height: 5rem;
+}
 /* ==========================================
 Single-colored icons can be modified like so:
 .icon-name {

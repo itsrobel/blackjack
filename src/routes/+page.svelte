@@ -189,3 +189,5 @@
 		</div>
 	{/each}
 </div>
+
+<img src="Vector.svg" alt="My Happy SVG" />
