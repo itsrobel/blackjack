@@ -166,6 +166,7 @@
 				<div class="font-bold text-xl text-white ">{num}</div>
 			</span>
 
+			<img src="VectorWheat.svg" alt="My Happy SVG" />
 			<span class="flex flex-row absolute bottom-0 left-100 right-0">
 				<svg class="icon icon-{suit}"><use xlink:href="#icon-{suit}" /></svg>
 				<div class="font-bold text-xl text-white ">{num}</div>
@@ -182,6 +183,7 @@
 				<div class="font-bold text-xl text-white ">{num}</div>
 			</span>
 
+			<img src="VectorWheat.svg" alt="My Happy SVG" />
 			<span class="flex flex-row absolute bottom-0 left-100 right-0">
 				<svg class="icon icon-{suit}"><use xlink:href="#icon-{suit}" /></svg>
 				<div class="font-bold text-xl text-white ">{num}</div>
@@ -190,4 +192,15 @@
 	{/each}
 </div>
 
-<img src="Vector.svg" alt="My Happy SVG" />
+<div class="max-w-sm rounded overflow-hidden shadow-lg h-48 w-28 mx-auto sticky">
+	<span class="flex flex-row">
+		<svg class="icon icon-S"><use xlink:href="#icon-S" /></svg>
+		<div class="font-bold text-xl text-white ">K</div>
+	</span>
+
+	<img src="VectorWheat.svg" alt="My Happy SVG" />
+	<span class="flex flex-row absolute bottom-0 left-100 right-0">
+		<svg class="icon icon-S"><use xlink:href="#icon-S" /></svg>
+		<div class="font-bold text-xl text-white ">K</div>
+	</span>
+</div>
